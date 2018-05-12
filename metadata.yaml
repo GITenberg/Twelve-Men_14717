@@ -1,0 +1,35 @@
+_repo: Twelve-Men_14717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dreiser, Theodore
+    birthdate: 1871
+    deathdate: 1945
+    gutenberg_agent_id: '130'
+    url: http://www.gutenberg.org/2009/agents/130
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Dreiser
+description: Title; Contents; Peter; A Doer of the Word; My Brother Paul; The County
+  Doctor; Culhane, the Solid Man; A True Patriarch; De Maupassant, Junior; The Village
+  Feudists; "Vanity, Vanity," Saith the Preacher; The Mighty Rourke; A Mayor and His
+  People; W.L.S.
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Character sketches'
+- !lcsh 'United States -- Biography'
+- !lcc 'PS'
+tableOfContents: Peter -- A doer of the word -- My brother Paul -- The country doctor
+  -- Culhane, the solid man -- A true patriarch -- De Maupassant, Junior -- The village
+  feudists -- "Vanity, vanity," saith the preacher -- The mighty Rourke -- A mayor
+  and his people -- W. L. S.
+title: Twelve Men
+url: http://www.gutenberg.org/ebooks/14717
